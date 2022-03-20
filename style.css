@@ -1,0 +1,24 @@
+body{
+    margin-bottom:300px;
+}
+div{
+    background-color: rgb(136, 127, 127);
+    text-align: center;
+    padding:20px;
+    margin :10px;
+    width:50%;
+}
+#Rounded{
+    border:10px solid rgb(195, 219, 129);
+    border-radius:40px;
+}
+#RoundedTwo{
+    border:10px solid rgb(91, 55, 189);
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+#RoundedRight{
+    border:10px solid rgb(0, 255, 76);
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
